@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpcs version="3.4.2">
+<file name="/var/www/html/laravel/app/Http/Controllers/SampleController.php" errors="2" warnings="0" fixable="2">
+    <error line="14" column="9" source="Squiz.ControlStructures.ControlSignature.SpaceAfterKeyword" severity="5" fixable="1">Expected 1 space(s) after IF keyword; 0 found</error>
+    <error line="16" column="23" source="PSR12.Classes.ClassInstantiation.MissingParentheses" severity="5" fixable="1">Parentheses must be used when instantiating a new class</error>
+</file>
+</phpcs>
+

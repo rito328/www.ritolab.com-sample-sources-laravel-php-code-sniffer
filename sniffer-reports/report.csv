@@ -1,0 +1,4 @@
+File,Line,Column,Type,Message,Source,Severity,Fixable
+"/var/www/html/laravel/app/Http/Controllers/SampleController.php",14,9,error,"Expected 1 space(s) after IF keyword; 0 found",Squiz.ControlStructures.ControlSignature.SpaceAfterKeyword,5,1
+"/var/www/html/laravel/app/Http/Controllers/SampleController.php",16,23,error,"Parentheses must be used when instantiating a new class",PSR12.Classes.ClassInstantiation.MissingParentheses,5,1
+
