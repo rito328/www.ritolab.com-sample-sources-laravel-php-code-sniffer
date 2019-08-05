@@ -9,9 +9,3 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-.env.dusk.local
-
-
-app/Http/Controllers/SampleController.php
-tests/DuskTestCase.php
-phpcs.xml
