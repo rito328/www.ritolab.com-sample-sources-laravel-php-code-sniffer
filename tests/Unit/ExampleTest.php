@@ -16,4 +16,12 @@ class ExampleTest extends TestCase
     {
         $this->assertTrue(true);
     }
+
+    /**
+     * @test
+     */
+    public function サンプルのテストです()
+    {
+        $this->assertTrue(true);
+    }
 }
